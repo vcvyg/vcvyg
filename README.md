@@ -1,12 +1,12 @@
 # vcvyg
 
-你好，我是 vcvyg。目前求职方向是 **AI 原生工程师 / LLM 应用开发 / RAG 知识库系统 / Agent 应用开发**。
+目前求职方向是 **AI 原生工程师 / LLM 应用开发 / RAG 知识库系统 / Agent 应用开发**。
 
 我更关注把大模型能力落到真实业务和产品场景里：从文档解析、Embedding、向量检索、Rerank、Prompt 设计，到 Agent Tool Use、后端 API、前端演示和效果评估，尽量把一个 AI 应用做成可运行、可解释、可迭代的工程系统。
 
 ## 求职方向
 
-- AI 原生应用开发
+- AI 开发
 - RAG 知识库与企业文档问答
 - Agent 架构、Tool Use、Planning、Memory
 - LLM 接入、Prompt Engineering、效果评估与调优
